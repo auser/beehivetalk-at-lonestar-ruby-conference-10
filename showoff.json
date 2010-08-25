@@ -1,6 +1,8 @@
 { "name": "Beehive", 
 	"sections": [ 
-		{"section":"one"},
-		{"section":"two"}
+		{"section":"title"},
+		{"section":"about_me"},
+		{"section":"about_beehive"},
+		{"section":"final"}
 	]
 }

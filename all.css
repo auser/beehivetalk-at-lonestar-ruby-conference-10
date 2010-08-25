@@ -1,7 +1,12 @@
 body {
-  background: #FFF
+  background: #FFF;
 }
 
 .slide {
   background: #FFF;
+}
+
+.black {
+  background: #111;
+  color: #FFF;
 }
