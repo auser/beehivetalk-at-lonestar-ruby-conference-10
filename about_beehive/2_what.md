@@ -13,4 +13,4 @@
 * Extensible
 * Distributed
 * Written in ruby, bash, c and erlang
-* Tested and running at AT&T interactive
+* 3-devs AT&T interactive + open-source collaborators

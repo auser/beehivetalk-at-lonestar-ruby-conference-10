@@ -10,3 +10,16 @@ body {
   background: #111;
   color: #FFF;
 }
+
+.what_head {
+  height: 477px;
+  width: 500px;
+  background: transparent url("images/what.png") no-repeat bottom left;
+  margin: 0 auto;
+}
+
+.creepy {
+  color: #FFF;
+  background: #000 url("images/creepy.png") no-repeat bottom left;
+  margin: 0 auto;
+}
