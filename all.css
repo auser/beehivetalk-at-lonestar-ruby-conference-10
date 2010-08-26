@@ -19,7 +19,24 @@ body {
 }
 
 .creepy {
-  color: #FFF;
   background: #000 url("images/creepy.png") no-repeat bottom left;
+  margin: 0 auto;
+}
+
+.revolution {
+  background: transparent url("images/revolution.png") no-repeat center left;
+  margin: 0 auto;
+  padding-left: 300px;
+}
+
+.focus_on_the_app {
+  background: url("images/app.png") no-repeat center right;
+  margin: 0 auto;
+  padding: 0;
+  padding-right: 250px;
+}
+
+.managers_manage {
+  background: url("images/server_managers.png") no-repeat center left;
   margin: 0 auto;
 }
