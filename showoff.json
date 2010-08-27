@@ -4,7 +4,8 @@
 		{"section":"about_me"},
 		{"section":"about_beehive"},
 		{"section":"server"},
-		{"section":"client"},
+		{"section":"internals"},
+		{"section":"install"},
 		{"section":"final"}
 	]
 }

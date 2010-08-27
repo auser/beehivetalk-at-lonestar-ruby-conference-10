@@ -7,7 +7,7 @@ body {
 }
 
 .black {
-  background: #111;
+  background: #000;
   color: #FFF;
 }
 
@@ -38,5 +38,40 @@ body {
 
 .managers_manage {
   background: url("images/server_managers.png") no-repeat center left;
-  margin: 0 auto;
+}
+.managers_manage h1 {
+  background: #000;
+  margin: 20px;
+  padding: 20px;
+  color: #FFF;
+}
+
+.fast_deployment {
+  background: url("images/fast_deployment.png") no-repeat center right;
+  padding-right: 550px;
+}
+
+.built_for_scale {
+  background: url("images/scale.png") no-repeat center left;
+  padding-left: 200px;
+}
+
+.fail_whale {
+  background: url("images/fail_whale.png") no-repeat center left;
+}
+
+.ready_to_go {
+  background: url("images/ready_to_go.png") no-repeat center bottom;
+  color: #FFF;
+  position: relative;
+}
+.ready_to_go h1 {
+  position: absolute;
+  bottom: 5px;
+  right: 200px;
+}
+.deploy_time {
+  background: url("images/deploy_time.png") no-repeat center right;
+  padding-right: 400px;
+  margin-right: 100px;
 }

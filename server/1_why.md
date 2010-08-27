@@ -7,10 +7,7 @@
  * Scheduled releases
  * ... seriously?
 
-!SLIDE center creepy
-<script>
-	black_slide(".creepy");
-</script>
+!SLIDE center creepy black
 # Does NOT focus on the application #
 
 <h4>nor the developer</h4>
@@ -23,17 +20,13 @@
 # Focus on the application #
 
 !SLIDE center managers_manage
-
-<script> 
-	$(".managers_manage").bind("showoff:show", function (event) {
-		var h1 = $(event.target).find("h1");
-		h1.css({
-			background: #000,
-			padding: 20px,
-			margin: 20px,
-			color: red;
-		});
-	});
-  
-</script>
 # Let the the server managers manage the servers #
+
+!SLIDE center fast_deployment
+# Rapid deployment #
+
+!SLIDE center built_for_scale
+# Built to scale #
+
+!SLIDE center fail_whale
+# Handles failure gracefully
