@@ -75,3 +75,38 @@ body {
   padding-right: 400px;
   margin-right: 100px;
 }
+
+.bee {
+  position: relative;
+}
+
+.bee .bee_text {
+  position: absolute;
+  top: 250px;
+  left: 440px;
+}
+
+.railgun {
+  background: url("images/railgun.png") no-repeat center left;
+}
+
+.railgun h1 {
+  background: #000;
+  margin: 20px;
+  padding: 20px;
+}
+
+.cont_deployment {
+  background: url("images/cont_deployment.png") no-repeat center left;
+}
+
+.cont_deployment h1 {
+  background: #FFF;
+  margin: 20px;
+  padding: 20px;
+}
+
+.over_provision {
+  background: url("images/reaper.png") no-repeat center right;
+  padding-right: 400px;
+}

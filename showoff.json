@@ -5,6 +5,7 @@
 		{"section":"about_beehive"},
 		{"section":"server"},
 		{"section":"internals"},
+		{"section":"beehive_why"},
 		{"section":"install"},
 		{"section":"final"}
 	]
