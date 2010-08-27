@@ -2,7 +2,6 @@
 
 # What? #
 
-
 !SLIDE center bullets
 
  * Dynamic distributed router
@@ -11,5 +10,5 @@
  * RESTful HTTP-based server
  * Storage management system
 
-
-
+!SLIDE center app_mon
+![appmon](images/app_mon.png)

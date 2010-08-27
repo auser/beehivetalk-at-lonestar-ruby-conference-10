@@ -110,3 +110,25 @@ body {
   background: url("images/reaper.png") no-repeat center right;
   padding-right: 400px;
 }
+
+.moo {
+  background: url("images/moo.png") no-repeat center right;
+}
+.moo h1 {
+  background: #FFF;
+  margin: 20px;
+  padding: 20px;
+}
+
+.app_mon img {
+  width: 1024px;
+  height: 640px;
+}
+
+.thanks { position: relative; }
+.thanks .footer {
+  position: absolute;
+  right: 50px;
+  top: 600px;
+  font-size: 1.9em;
+}
