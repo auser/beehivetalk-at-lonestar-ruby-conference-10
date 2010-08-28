@@ -144,6 +144,13 @@ body {
 }
 
 .ginger img {
-  width: 600px;
-  height: 450px;
+  width: 800px;
+  height: 600px;
+}
+
+.smaller {
+  font-size: 0.6em;
+}
+.smallest {
+  font-size: 0.3em;
 }

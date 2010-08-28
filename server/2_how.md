@@ -6,3 +6,7 @@
 # curl -XPOST -d”{}”... #
 ## or the ‘beehive gem’ ##
 ### or any HTTP client ###
+
+!SLIDE center black
+# HTTP #
+

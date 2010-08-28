@@ -7,6 +7,13 @@
 !SLIDE center
 # Automagically scale apps #
 
+!SLIDE center
+# Automagically scale beehive #
+
+<div class="right_footer">
+	(with hooks)
+</div>
+
 !SLIDE center bullets incremental
 # Event handling in other languages #
 
@@ -23,6 +30,9 @@
 
 !SLIDE center
 # built-in git server #
+
+!SLIDE center
+# Better 'black-box' testing
 
 !SLIDE center
 # More? #

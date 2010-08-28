@@ -1,5 +1,7 @@
 !SLIDE center
-# How it works #
+# How to work with it #
+
+
 
 !SLIDE center
 # Define an app #
@@ -35,6 +37,6 @@
 
 !SLIDE center deploy_time
 # Deploy time #
-## seconds ##
+<h2>seconds<div class="smallest">after creating the app</div></h2>
 
 ## `git push` ##

@@ -10,6 +10,7 @@
 !SLIDE bullets incremental
 # What is it? #
 
+* Tested
 * Extensible
 * Distributed
 * Written in ruby, bash, c and erlang
