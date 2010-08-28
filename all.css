@@ -137,7 +137,13 @@ body {
   font-size: 1.9em;
 }
 
-#preso img {
-  width: 1024px;
-  height: 640px;
+.white_bg {
+  background: #FFF;
+  margin: 20px;
+  padding: 20px;
+}
+
+.ginger img {
+  width: 600px;
+  height: 450px;
 }

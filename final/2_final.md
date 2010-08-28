@@ -18,5 +18,6 @@
 
 <div class="right_footer">
 	Ari Lerner<br />
-	arilerner@mac.com
+	arilerner@mac.com<br />
+	@auser
 </div>
