@@ -1,3 +1,12 @@
+!SLIDE center black
+# Extensibility
+
+!SLIDE center black
+# App templates #
+
+!SLIDE center
+# Application lifecycle #
+
 !SLIDE center incremental bullets
 # Bundle (into a bee) #
 

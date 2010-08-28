@@ -6,14 +6,3 @@
 # curl -XPOST -d”{}”... #
 ## or the ‘beehive gem’ ##
 ### or any HTTP client ###
-
-!SLIDE center black
-# Extensibility
-
-!SLIDE center black
-# App templates #
-
-!SLIDE center
-# Application lifecycle #
-
-
