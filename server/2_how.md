@@ -8,10 +8,6 @@
 ### or any HTTP client ###
 
 !SLIDE center black
-# git push #
-## Use familiar tools ##
-
-!SLIDE center black
 # App templates #
 
 !SLIDE center

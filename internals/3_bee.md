@@ -30,3 +30,18 @@
 
 !SLIDE center black 
 ![reaped](images/reaped_2.png)
+
+!SLIDE center black
+# Oh no, one of the servers caught on fire #
+
+!SLIDE center black
+![fire-ball](images/fire-ball.png)
+
+!SLIDE center black
+![fired](images/on_fire.png)
+
+!SLIDE center black
+# Let it die, start a new one only when necessary #
+
+!SLIDE center black
+![fired](images/on_fire2.png)
