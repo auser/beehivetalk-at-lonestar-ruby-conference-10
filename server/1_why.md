@@ -1,4 +1,4 @@
-!SLIDE center bullets
+!SLIDE center bullets incremental
 # Deployment today? #
 
  * Centers around the server
