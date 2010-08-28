@@ -10,10 +10,6 @@
 
 !SLIDE center black
 
-![git push](images/git_push.png)
-
-!SLIDE center black
-
 ![beehive create](images/app_create.png)
 
 !SLIDE center
@@ -24,6 +20,13 @@
 	-d <span class="String"><span class="String">&quot;</span>{‘name’:‘beehive’, ‘token’:‘token’}<span class="String">&quot;</span></span> <span class="Variable">
 	<span class="Variable">$</span>HOST</span>/apps/beehive/deploy</pre>
 
+!SLIDE center bullets incremental 
+# Beehive will then... #
+
+ * Check out and bundle the application, checking for errors
+ * Start the application, if it can
+ * Route requests to the newly deployed bee
+
 !SLIDE center black
 ![deploy and app](images/deploy_app.png)
 
@@ -32,7 +35,6 @@
 
 !SLIDE center deploy_time
 # Deploy time #
-
 ## seconds ##
 
-<pre><code>git push</code></pre>
+## `git push` ##

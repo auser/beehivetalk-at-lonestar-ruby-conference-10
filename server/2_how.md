@@ -8,6 +8,9 @@
 ### or any HTTP client ###
 
 !SLIDE center black
+# Extensibility
+
+!SLIDE center black
 # App templates #
 
 !SLIDE center
