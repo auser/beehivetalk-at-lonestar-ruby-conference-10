@@ -1,6 +1,7 @@
 .sunburst {
   background-color: white;
   line-height: 150%;
+  font-size: 2.0em;
   }
   .sunburst .DiffInserted {
     background-color: #253b22;

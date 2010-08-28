@@ -126,7 +126,7 @@ body {
 }
 
 .thanks { position: relative; }
-.thanks .footer {
+.right_footer {
   position: absolute;
   right: 50px;
   top: 600px;
