@@ -3,5 +3,5 @@
 
 * Super rad enjoyable deployment
 
-!SLIDE
+!SLIDE center
 ![Beehive costumes](/images/costumes.jpg)
