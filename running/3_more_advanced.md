@@ -13,3 +13,6 @@
 !SLIDE code
 <pre class="sunburst"><span class="Comment"><span class="Comment">#</span> What about changing how the bees are chosen</span>&#x000A;<span class="Comment"><span class="Comment">#</span> Currently, they are chosen on the 'Host' header</span>&#x000A;<span class="Comment"><span class="Comment">#</span> in the HTTP request, but this can be modified</span>&#x000A;<span class="Comment"><span class="Comment">#</span> using the -r switch</span>&#x000A;start_beehive -n alice -r <span class="String"><span class="String">'</span>User-Agent<span class="String">'</span></span></pre>
 
+!SLIDE code
+<pre class="sunburst"><span class="Comment"><span class="Comment">#</span> For more help, use the -h command on</span>&#x000A;<span class="Comment"><span class="Comment">#</span> all the binaries</span>&#x000A;<span class="Comment"><span class="Comment">#</span> i.e.</span>&#x000A;start_beehive -h&#x000A;queen -h</pre>
+
