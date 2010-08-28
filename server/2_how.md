@@ -8,7 +8,6 @@
 ### or any HTTP client ###
 
 !SLIDE center black
-<script> black_slide(); </script>
 # git push #
 ## Use familiar tools ##
 
